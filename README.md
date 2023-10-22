@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shauryagu
-- I'm a Junior studying CS in the college of engineering at the University of Michigan.
+- I'm a Senior studying CS in the college of engineering at the University of Michigan.
 - Amongst other things, I'm mainly interested in CV/ML and software design.
 - Feel free to reach out to me at shagund@umich.edu!
 
